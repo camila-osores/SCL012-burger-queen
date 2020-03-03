@@ -7,10 +7,10 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        
-        <button id="btn_mesero" class="btn_mesero">MESERO</button>
-        <button id="btn_jefe" class="btn_jefe">JEFE DE COCINA</button>
-        
+        <div className="btns_initial">
+          <button id="btn_mesero" className="btn_initial">MESERO</button>
+          <button id="btn_jefe" className="btn_initial">JEFE DE COCINA</button>
+        </div>
       </header>
     </div>
   );
