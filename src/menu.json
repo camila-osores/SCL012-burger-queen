@@ -1,0 +1,63 @@
+{
+    "Breakfast": {
+        "Coffe": {
+            "Name": "Cafe",
+            "Value": "$500"
+        },
+        "American Coffe": {
+            "Name": "Cafe Americano",
+            "Value": "$700"
+        },
+        "Sandwish": {
+            "Name": "Sandwish",
+            "Value": "$1.000"
+        },
+        "Natural Juice": {
+            "Name": "Jugo Natural",
+            "Value": "$1.000"
+        }
+    },
+
+    "Lunch": {
+        "Burger Simple": {
+            "Name": "Hamburguesa Simple",
+            "Value": "$1.000"
+        },
+        "Burger Double": {
+            "Name": "Hamburguesa Doble",
+            "Value": "$1.500"
+        },
+        "Frensh Fries": {
+            "Name": "Papas Fritas",
+            "Value": "$500"
+        },
+        "Onion Ring": {
+            "Name": "Aros de Cebolla",
+            "Value": "$500"
+        },
+        "Drink Big ": {
+            "Name": "Bebida 750ml",
+            "Value": "$1.000"
+        },
+        "Drink Short ": {
+            "Name": "Bebida 500ml",
+            "Value": "$700"
+        },
+        "Water Big ": {
+            "Name": "Agua 750ml",
+            "Value": "$700"
+        },
+        "Water Short ": {
+            "Name": "Agua 500ml",
+            "Value": "$500"
+        },
+        "Eggs": {
+            "Name": "Huevo",
+            "Value": "$100"
+        },
+        "Cheese": {
+            "Name": "Queso",
+            "Value": "$100"
+        }
+    }
+}
