@@ -14,7 +14,7 @@
 }
 
 .App-header {
-    background-color: red;
+    background-color: black;
     min-height: 100vh;
     display: flex;
     flex-direction: column;
@@ -22,10 +22,6 @@
     justify-content: center;
     font-size: calc(10px + 2vmin);
     color: white;
-}
-
-.App-link {
-    color: #61dafb;
 }
 
 @keyframes App-logo-spin {
@@ -46,6 +42,8 @@
 }
 
 .btn_initial {
+    font-size: 20px;
+    font-family: 'Gloria Hallelujah', cursive;
     background-color: #A81916;
     color: white;
     width: 11.25rem;
