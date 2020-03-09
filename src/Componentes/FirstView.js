@@ -1,4 +1,5 @@
 import React from 'react';
+import logo from './logo.png';
 
 function App() {
     return (
@@ -13,4 +14,6 @@ function App() {
       </div>
     );
   }
+
+  
   
