@@ -37,16 +37,18 @@
     }
 }
 
-.btns_initial {
-    display: flex;
-}
 
-.btn_initial {
+/* .btns_initial {
+    display: flex;
+} */
+
+
+/* .btn_initial {
     font-size: 20px;
-    font-family: 'Gloria Hallelujah', cursive;
+    font-family: 'Dosis', sans-serif;
     background-color: #A81916;
     color: white;
-    width: 11.25rem;
+    width: 120px;
     height: 2.5rem;
     margin: 50px;
     margin-bottom: -30px;
@@ -57,4 +59,23 @@
     -moz-border-radius: 0.9375rem;
     -ms-border-radius: 0.9375rem;
     -o-border-radius: 0.9375rem;
+} */
+
+
+/* Botones de página de inicio */
+
+.btn-danger {
+    background-color: #A81916!important;
+    font-family: 'Open Sans', sans-serif;
+    width: 140px;
+    cursor: pointer;
+    border-radius: 0.9375rem;
+    -webkit-border-radius: 0.9375rem !important;
+    -moz-border-radius: 0.9375rem;
+    -ms-border-radius: 0.9375rem;
+    -o-border-radius: 0.9375rem;
+}
+
+.orden {
+    background-color: #A81916 !important;
 }
