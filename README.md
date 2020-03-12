@@ -18,4 +18,4 @@ Para poder trabajar en esta app tenemos la siguiente información proporcionada 
 * Cuentan con 2 menús, desayuno y almuerzo, en la opción de almuerzo el cliente puede seleccionar el tipo de hambuerguesa que quiere, siendo esta de Res- Pollo o Vegetariana, tambien se le da la opción de agregarle huevo o queso por un valor extra si es que el cliente lo solicita.
 * Tambien nos comentan que los clientes que lo visitan son bastantes indesisos por lo cual es muy importante que los pedidos puedan ser editados o eliminados. 
 
-
+d
