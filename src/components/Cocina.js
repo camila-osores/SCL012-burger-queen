@@ -1,7 +1,14 @@
 import React from 'react';
 
 const Cocina = () => {
-    return ( <h1>Cocina</h1> );
+    return ( 
+        
+        <div className="container">
+            <div><button>Agregar</button></div>
+        </div>
+        
+    
+    );
 }
  
 export default Cocina;
