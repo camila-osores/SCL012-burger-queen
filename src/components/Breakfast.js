@@ -5,36 +5,42 @@ const Breakfast = () => {
         <div className="container">
             <div className="row">
                 <div className="col-4">
-                    <h1 className="">Desayuno</h1>
-                        <div><button>Café americano $500</button></div>
-                        <div><button>Café con leche $700</button></div>
-                        <div><button>Sandwich de jamón y queso $1.000</button></div>
-                        <div><button>Jugo de frutas natural $700</button></div>
+                    <h1 className="desayuno">Desayuno</h1>
+                        <button class="breakfast_menu" id="breakfast_menu">Café americano $500</button> <br></br>
+                        <button class="breakfast_menu" id="breakfast_menu">Café con leche $700</button>
+                        <button class="breakfast_menu" id="breakfast_menu">Sandwich de jamón y queso $1.000</button>
+                        <button class="breakfast_menu" id="breakfast_menu">Jugo de frutas natural $700</button>
                 </div>
 
                 <div className="col-4">
-                    <h1 className="">Almuerzo</h1>
+                    <h1 className="almuerzo">Almuerzo</h1>
                         <h5>Menú</h5>
-                        <div><button>Hamburguesa simple res $1.000</button></div>
-                        <div><button>Hamburguesa simple pollo $1.000</button></div>
-                        <div><button>Hamburguesa simple vegetariana $1.000</button></div>
-                        <div><button>Hamburguesa doble res $1.500</button></div>
-                        <div><button>Hamburguesa doble pollo $1.500</button></div>
-                        <div><button>Hamburguesa doble vegetariana $1.500</button></div>
-                        <div><button>Con agregado de huevo $100</button></div>
-                        <div><button>Con agregado de queso $100</button></div>
+
+                        <button class="lunch_menu" id="lunch_menu">Hamburguesa simple res $1.000</button>
+                        <button class="lunch_menu" id="lunch_menu">Hamburguesa simple pollo $1.000</button>
+                        <button class="lunch_menu" id="lunch_menu">Hamburguesa simple vegetariana $1.000</button>
+                        <button class="lunch_menu" id="lunch_menu">Hamburguesa doble res $1.500</button>
+                        <button class="lunch_menu" id="lunch_menu">Hamburguesa doble pollo $1.500</button>
+                        <button class="lunch_menu" id="lunch_menu">Hamburguesa doble vegetariana $1.500</button>
+                        <button class="lunch_menu" id="lunch_menu">Huevo $100</button>
+                        <button class="lunch_menu" id="lunch_menu">Queso $100</button>
+                                               
                         <h5>Acompañamiento</h5>
-                        <div><button>Papas fritas $500</button></div>
-                        <div><button>Aros de cebolla $500</button></div>
-                        <h5>Para tomar</h5>
-                        <div><button>Agua 500 ml $500</button></div>
-                        <div><button>Agua 750 ml $700</button></div>
-                        <div><button>Bebida 500 ml $700</button></div>
-                        <div><button>Bebida 750 ml $1.000</button></div>
+
+                        <button class="accompaniment" id="accompaniment">Papas fritas $500</button>
+                        <button class="accompaniment" id="accompaniment">Aros de cebolla $500</button>
+
+                        <h5>Bebestibles</h5>
+
+                        <button class="drink" id="drink">Agua 500 ml $500</button>
+                        <button class="drink" id="drink">Agua 750 ml $700</button>
+                        <button class="drink" id="drink">Bebida 500 ml $700</button>
+                        <button class="drink" id="drink">Bebida 750 ml $1.000</button>
+
                 </div>
 
                 <div className="col-4 orden">
-                    <h1 className="">Orden</h1>
+                    <h1 className="order">Orden</h1>
                        
                 </div>
 

@@ -76,6 +76,37 @@
     -o-border-radius: 0.9375rem;
 }
 
+body {
+    background-color: black;
+}
+
+.container {
+    padding-top: 2rem;
+    line-height: 25px;
+}
+
 .orden {
     background-color: #A81916 !important;
+    border-radius: 20px;
+}
+
+.order,
+.desayuno,
+.almuerzo {
+    font-family: 'Bellota', cursive;
+}
+
+h5 {
+    font-family: 'Bellota', cursive;
+}
+
+.breakfast_menu,
+.lunch_menu,
+.accompaniment,
+.drink {
+    font-family: 'Quicksand', sans-serif;
+    border-radius: 10px;
+    background-color: black;
+    color: white;
+    border: none;
 }
