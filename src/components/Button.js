@@ -1,10 +1,23 @@
 import React from 'react';
+import { Button } from 'react-bootstrap';
+import PropTypes from 'prop-types'
+import './button.css'
 
-const Boton = () => {
+
+const Button = ({title, onClick}) => {
     return (
-        console.log("Funciona boton")
-        // <h1>Hola mundo</h1>
-    );
+        <button 
+            className = 'button'
+            onClick = {onClick}>
+            {title}
+        </button>
+    )
 }
 
-export default Boton;
+Button.propTypes = {
+    title: PropTypes.string.isRequired,
+    onClick: PropTypes.func
+}
+
+export default Button;
+
