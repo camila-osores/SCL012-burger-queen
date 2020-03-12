@@ -37,6 +37,15 @@
     }
 }
 
+p {
+    display: inline-block;
+    padding-right: 10px;
+}
+
+button {
+    font-size: 12px!important;
+}
+
 
 /* .btns_initial {
     display: flex;

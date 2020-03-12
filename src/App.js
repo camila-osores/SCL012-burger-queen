@@ -5,8 +5,7 @@ import {BrowserRouter as Router , Switch, Route} from "react-router-dom";
 import Breakfast from './components/Breakfast';
 import Cocina from './components/Cocina';
 import FirstView from './components/FirstView';
-// import { render } from '@testing-library/react';
-// import { Button } from 'react-bootstrap';
+
 
 function App() {
     return (

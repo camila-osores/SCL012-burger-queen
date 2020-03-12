@@ -15,7 +15,7 @@ const FirstView = () => {
             </div> 
             );
 }
- 
+
 export default FirstView;
 
 
