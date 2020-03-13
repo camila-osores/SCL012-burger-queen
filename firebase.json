@@ -6,7 +6,7 @@
         "rules": "dist"
     },
     "hosting": {
-        "public": "src",
+        "public": "build",
         "ignore": [
             "firebase.json",
             "**/.*",
