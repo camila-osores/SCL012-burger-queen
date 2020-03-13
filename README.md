@@ -6,6 +6,8 @@
 
 Este proyecto está diseñado especialmente para facilitar y agilizar el trabajo de los distintos meseros de diferentes cadenas de restaurantes. 
 
+Si deseas visitar la App [Haz click aquí](https://burgerqueen-47dd8.firebaseapp.com/)
+
 ***
 
 ### Requerimientos del proyecto
@@ -26,6 +28,9 @@ Crear una app. utilizando React, y que además se pueda ocupar sin conexión a i
 Otro de los objetivos es poder mejorar la rapidez y eficiencia en el servicio entregado por el local, pudiendo así repartir los alimentos en el nenor tiempo posible, y fidelizar a sus clientes. 
 
 ***
+### Planificación
+
+La planificación de Burger Queen está hecha en Trello, puedes revisarla a continuación en el siguiente link [Planificación](https://trello.com/b/fvxChDx4/burger-queen)
 
 ### Flujo 
 
